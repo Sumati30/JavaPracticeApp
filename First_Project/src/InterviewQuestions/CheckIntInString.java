@@ -1,4 +1,4 @@
-package JavaFirstProject;
+package InterviewQuestions;
 
 import java.util.Scanner;
 import java.util.Arrays;
